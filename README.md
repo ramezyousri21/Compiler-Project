@@ -1,14 +1,8 @@
 # Compilers Project
 
-## Project Collaborators:
-Ramez Yousri
-Zeyad Essam
-Ali El Mansoury
-Hassan Ahmed
-
-#Idea
-The part where the syntax analysis occurs , it takes the set of input tokens and 
-uses one of the many parsing algorithms to parse the code and check the syntax
+# Idea
+The aim of this project is to create 2 phases of a compiler lexical analysis and syntax analysis 
+(Lexer and Parser) for AINSI C language
 
 The application consists of 3 parts:
 * GUI – a way for the user to interact with the backend of the application
